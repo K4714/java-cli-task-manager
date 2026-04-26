@@ -67,7 +67,7 @@ public class Main {
         TaskManager manager = new TaskManager();
 
         while (true) {
-            System.out.println("\n--- Task Manager ---");
+            System.out.println("\n--- Task Manager v1 ---");
             System.out.println("1. Add task");
             System.out.println("2. List tasks");
             System.out.println("3. Complete task");
