@@ -1,7 +1,3 @@
-# java-cli-task-manager
-Simple CLI task manager in Java
-# Java CLI Task Manager
-
 A simple command-line task manager built in Java.
 
 ## Features
